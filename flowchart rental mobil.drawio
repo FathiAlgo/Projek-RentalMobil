@@ -1,0 +1,173 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.4 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.4">
+  <diagram name="Page-1" id="HuEoJLhPByWoRtlCQa42">
+    <mxGraphModel dx="1771" dy="4163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-109" target="LZPv1IESmpOi5-6imQ9H-129">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-109" value="MULAI" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-750" y="-2490" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-166" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-110" target="LZPv1IESmpOi5-6imQ9H-162">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-110" value="Pilih nomor data untuk dihapus" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="-1965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-290" y="-1810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-111" value="Jika&lt;div&gt;&amp;nbsp;Ya, kembali ke Menu Utama. Jika Tidak, program selesai.&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-1850" width="110" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-113" target="LZPv1IESmpOi5-6imQ9H-168">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-113" value="Data berhasil dihapus" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="-2010" width="100" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-114" value="Hitung Total Biaya" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-115" target="LZPv1IESmpOi5-6imQ9H-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-115" value="Mengakhiri program" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-1975" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-135" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-116" target="LZPv1IESmpOi5-6imQ9H-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-116" value="Koreksi/&lt;div&gt;Edit Data&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-138" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-117" target="LZPv1IESmpOi5-6imQ9H-137">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-117" value="Keluar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-119" target="LZPv1IESmpOi5-6imQ9H-140">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-119" value="Masukkan Nama,&lt;div&gt;&amp;nbsp;Alamat, No. HP, dan Pilihan Mobil,durasi sewa&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-2290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-133" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-125" target="LZPv1IESmpOi5-6imQ9H-126">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-125" value="Isi Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-490" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-134" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-126" target="LZPv1IESmpOi5-6imQ9H-116">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-126" value="Lihat Laporan" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-320" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-136" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-128" target="LZPv1IESmpOi5-6imQ9H-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-128" value="Hapus Data" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="-2490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-129" target="LZPv1IESmpOi5-6imQ9H-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-129" value="program dimulai" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-610" y="-2475" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-137" target="LZPv1IESmpOi5-6imQ9H-119">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="-2240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-137" value="pilih menu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="-2330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-144" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-140" target="LZPv1IESmpOi5-6imQ9H-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-140" value="&amp;nbsp;Hitung total biaya (harga/hari * durasi), simpan data ke ArrayList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-2290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-143" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-142">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-340" y="-2260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-142" value="data berhasil di tambahkan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-2275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-150" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-145">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-425" y="-2160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-145" value="&amp;nbsp;Menampilkan semua data pelanggan (nama, alamat, no. HP, mobil, harga, durasi, total biaya)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-510" y="-2290" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-146" value="lihat laporan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-370" y="-2330" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-147" value="isi data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="-2350" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-165" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-148" target="LZPv1IESmpOi5-6imQ9H-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-148" value="hapus data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="267.5" y="-1950" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-151" target="LZPv1IESmpOi5-6imQ9H-154">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-151" value="Pilih nomor data untuk diedit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="-2150" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-153" value="Edit Data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-380" y="-2145" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-154" target="LZPv1IESmpOi5-6imQ9H-160">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="-2130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-154" value="Perbarui data pelanggan (nama, alamat, no. HP, mobil, durasi, hitung ulang total biaya)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-2150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-159" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-158" target="LZPv1IESmpOi5-6imQ9H-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-158" value="Total Pendapatan." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="-485" y="-2160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-161" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-160" target="LZPv1IESmpOi5-6imQ9H-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-160" value="Data berhasil diubah." style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-2100" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-162" target="LZPv1IESmpOi5-6imQ9H-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-162" value="Hapus data pelanggan dari ArrayList" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="-1965" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LZPv1IESmpOi5-6imQ9H-168" target="LZPv1IESmpOi5-6imQ9H-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-168" value="keluar program" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="-1960" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LZPv1IESmpOi5-6imQ9H-173" value="Program Selesai" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="-290" y="-1830" width="100" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
